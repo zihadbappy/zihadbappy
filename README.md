@@ -1,4 +1,4 @@
-<h1 align="center">Hello weary visitor :wave:, I am Anower Hossen Zihad</h1>
+<h1 align="center">Hello weary visitor :wave:, I am Zihad</h1>
 <h3 align="center">I am a fresh graduate in Computer Science. I like to work on web app dev and Machine Learning</h3>
 
 - 🔭 I’m currently working on
