@@ -1,5 +1,5 @@
 <h1 align="center">Hello weary visitor :wave:, I am Zihad</h1>
-<h3 align="center">I am pursuing a career in CloudOps/DevOps. My fields of expertise are: AWS Cloud Services(EC2, VPC, S3, RDS, CloudFront, ECR Load Balancing etc.), Docker, Kubernetes, Terraform, Ansible, GitOps, GitLab CI/CD, Jenkins, Grafana, Prometheus, ArgoCD, Nodejs, Flask, Mongodb, Pandas, Numpy, Tensorflow/Keras </h3>
+<h3 align="center">I am pursuing a career in CloudOps/DevOps. My fields of expertise are- AWS Cloud Services, Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD, and Backend development.  </h3>
 
 - 🔭 I’m currently working on
   - **Multiple Three-tier and Microservices Applications' infra automation and CI/CD pipeline**
